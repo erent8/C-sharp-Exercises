@@ -1,1 +1,1 @@
-## C# Öğrenirken Çıkardığım Notları İçerir
+## MySQL
