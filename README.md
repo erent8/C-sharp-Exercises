@@ -1,2 +1,1 @@
-
-cs-exercises
+## C# Öğrenirken Çıkardığım Notları İçerir
